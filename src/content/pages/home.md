@@ -12,3 +12,13 @@ Welkom op mijn plek voor persoonlijke verhalen en nieuwe perspectieven.
 ## Een beetje meer jezelf
 
 Ik schrijf over de kleine dingen die een groot verschil maken. Over vertragen, opnieuw beginnen en je eigen richting vinden.
+
+
+Preview handoff test: first saved version.
+
+Preview handoff test: second saved version.
+
+Publication review test: ready for Sil to review.
+
+
+Netlify-only preview test: edits are committed to this draft PR.
