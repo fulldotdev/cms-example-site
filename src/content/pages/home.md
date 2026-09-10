@@ -1,14 +1,12 @@
 ---
-title: Ruimte voor een nieuw verhaal
-description: Verhalen, inzichten en inspiratie om dichter bij jezelf te komen.
+title: Welkom in je eigen websitewerkplek
+description: Veilig bewerken met CMS, klaar voor review.
 ---
 
-# Ruimte voor een nieuw verhaal
+# Welkom in je eigen websitewerkplek
 
-Soms begint verandering met een moment van aandacht. Een goed gesprek. Of een verhaal waarin je jezelf herkent.
+Dit voorbeeld is online aangepast, met een beveiligde verbinding naar GitHub.
 
-Welkom op mijn plek voor persoonlijke verhalen en nieuwe perspectieven.
+## Eerst bekijken, dan beoordelen
 
-## Een beetje meer jezelf
-
-Ik schrijf over de kleine dingen die een groot verschil maken. Over vertragen, opnieuw beginnen en je eigen richting vinden.
+Wijzigingen krijgen een eigen preview en gaan daarna als concept naar de beheerder.
