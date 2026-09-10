@@ -1,14 +1,12 @@
 ---
-title: Ruimte voor een nieuw verhaal
-description: Verhalen, inzichten en inspiratie om dichter bij jezelf te komen.
+title: Ruimte voor jouw volgende verhaal
+description: Een fictieve test van veilig websitebeheer.
 ---
 
-# Ruimte voor een nieuw verhaal
+# Ruimte voor jouw volgende verhaal
 
-Soms begint verandering met een moment van aandacht. Een goed gesprek. Of een verhaal waarin je jezelf herkent.
+Dit concept is gemaakt in CMS. Eerst lezen, aanpassen en previewen. Daarna pas een voorstel voor review.
 
-Welkom op mijn plek voor persoonlijke verhalen en nieuwe perspectieven.
+## Klein beginnen
 
-## Een beetje meer jezelf
-
-Ik schrijf over de kleine dingen die een groot verschil maken. Over vertragen, opnieuw beginnen en je eigen richting vinden.
+Een nieuw perspectief begint met een eerste stap.
