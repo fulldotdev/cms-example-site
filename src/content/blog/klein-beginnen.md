@@ -6,7 +6,7 @@ date: 2026-09-09
 
 # De kracht van klein beginnen
 
-We wachten vaak op het perfecte moment. Maar verandering begint meestal kleiner dan je denkt.
+Misschien herken je het: je wilt iets veranderen, maar wacht op het perfecte moment. Je hoeft niet alles vandaag te veranderen. Begin gerust klein, met iets dat belangrijk voor je is.
 
 ## Een eerste stap
 
