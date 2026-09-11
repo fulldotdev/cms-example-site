@@ -11,3 +11,6 @@ We wachten vaak op het perfecte moment. Maar verandering begint meestal kleiner 
 ## Een eerste stap
 
 Neem vandaag tien minuten voor iets dat belangrijk voor je is. Zonder een groot plan, gewoon beginnen.
+
+
+![Afbeelding voor de CMS-uploadtest](/images/cms-upload-test.png)
