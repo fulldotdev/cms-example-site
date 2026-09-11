@@ -11,3 +11,5 @@ We wachten vaak op het perfecte moment. Maar verandering begint meestal kleiner 
 ## Een eerste stap
 
 Neem vandaag tien minuten voor iets dat belangrijk voor je is. Zonder een groot plan, gewoon beginnen.
+
+Deze tijdelijke controle bevestigt dat de CMS-preview direct uit GitHub wordt opgebouwd.
