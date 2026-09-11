@@ -47,3 +47,8 @@ Wil je jezelf helpen herinneren, leg dan bijvoorbeeld je boek op een zichtbare p
 Denk nog eens aan dat ene ding dat je aandacht verdient. Welke kleine handeling hoort daarbij? Kies een moment waarop je die wilt doen en houd de afspraak eenvoudig.
 
 Eén bericht, een paar bladzijden, tien minuten aandacht. Je hoeft vandaag niet verder te zijn dan dat. Geef jezelf de ruimte om te beginnen, op een manier die bij je past.
+
+<section aria-labelledby="reviews-heading" style="margin-top: 64px; padding: 28px; border: 1px solid #dddcd1; border-radius: 12px; background: #eeece3;">
+  <h2 id="reviews-heading" style="margin-top: 0;">Reviews van lezers</h2>
+  <p style="margin-bottom: 0;">Er zijn nog geen reviews om te tonen.</p>
+</section>
